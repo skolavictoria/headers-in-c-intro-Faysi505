@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "greetings.h"
+#include "greetings.c"
 
 int main(){
     void say_hello();
